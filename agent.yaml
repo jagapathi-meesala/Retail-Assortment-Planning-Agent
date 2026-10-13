@@ -1,0 +1,22 @@
+spec_version: "0.1.0"
+name: retail-assortment-planning-agent
+version: "1.0.0"
+description: "Creates explainable retail assortment recommendations from supplied product, sales, margin, and inventory data."
+author: jagapathi-meesala
+license: MIT
+skills:
+  - assortment-analysis
+  - demand-aware-planning
+  - assortment-explanation
+tools:
+  - score-assortment-candidates
+  - recommend-assortment
+  - explain-assortment-plan
+runtime:
+  max_turns: 5
+  temperature: 0.2
+  timeout: 30
+tags:
+  - retail
+  - assortment-planning
+  - inventory

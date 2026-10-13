@@ -1,0 +1,7 @@
+name: explain-assortment-plan
+description: Explain selected products and unmet category minimums.
+input_schema:
+  type: object
+  required: [result]
+  properties:
+    result: {type: object}

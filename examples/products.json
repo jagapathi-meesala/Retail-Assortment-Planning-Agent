@@ -1,0 +1,7 @@
+[
+ {"product_id":"P-101","name":"Classic T-Shirt","category":"Apparel","units_sold":420,"gross_margin_pct":38,"inventory_units":80},
+ {"product_id":"P-102","name":"Running Socks","category":"Accessories","units_sold":300,"gross_margin_pct":45,"inventory_units":120},
+ {"product_id":"P-103","name":"Denim Jeans","category":"Apparel","units_sold":250,"gross_margin_pct":42,"inventory_units":35},
+ {"product_id":"P-104","name":"Water Bottle","category":"Accessories","units_sold":180,"gross_margin_pct":52,"inventory_units":150},
+ {"product_id":"P-105","name":"Rain Jacket","category":"Outerwear","units_sold":90,"gross_margin_pct":48,"inventory_units":20}
+]

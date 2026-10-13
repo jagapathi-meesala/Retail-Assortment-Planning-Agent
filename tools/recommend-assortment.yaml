@@ -1,0 +1,9 @@
+name: recommend-assortment
+description: Select an assortment using relative scores and optional category minimums.
+input_schema:
+  type: object
+  required: [products, limit]
+  properties:
+    products: {type: array, items: {type: object}}
+    limit: {type: integer}
+    category_minimums: {type: object}

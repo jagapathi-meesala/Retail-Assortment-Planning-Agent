@@ -1,0 +1,9 @@
+name: score-assortment-candidates
+description: Score supplied retail product candidates using documented relative metrics.
+input_schema:
+  type: object
+  required: [products]
+  properties:
+    products:
+      type: array
+      items: {type: object}
